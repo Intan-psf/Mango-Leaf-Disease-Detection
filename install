@@ -1,0 +1,17 @@
+[33mcommit 2f8e4a2d4feeed0aca2c5ebdf6fcf210d84f046b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: John Doe <johndoe@example.com>
+Date:   Fri Jul 4 17:17:05 2025 +0700
+
+    Remove large model file and add .gitignore
+
+[33mcommit 6c599728a6b88f5f11da0c4e467d563f8c872208[m
+Author: John Doe <johndoe@example.com>
+Date:   Fri Jul 4 17:11:23 2025 +0700
+
+    Add large model with Git LFS
+
+[33mcommit c67bc3804f16c2c8f1fcb4f214cc90ca65bd24dc[m
+Author: John Doe <johndoe@example.com>
+Date:   Fri Jul 4 17:04:09 2025 +0700
+
+    first commit
