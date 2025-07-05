@@ -15,12 +15,6 @@ This is a simple Streamlit web app for detecting mango leaf diseases using an en
 ├── rf_model.pkl    # Pre-trained Random Forest model
 ├── .gitignore      # Ignore large model files (.h5)
 ├── README.md       # Project description
-```
-
-⚡ **Note:**
-
-- The feature extractor files (.h5) are large and not tracked by Git.
-- You may download them separately if needed and place them in this project folder.
 
 ---
 
